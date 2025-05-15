@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 ![Peft](https://img.shields.io/badge/-Peft-FF5A5F?logo=fastapi&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-SvelteKit-FF3E00?logo=svelte&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
