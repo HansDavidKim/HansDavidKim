@@ -21,14 +21,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/-Peft-FF5A5F?logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/-SvelteKit-FF3E00?logo=svelte&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-SvelteKit-FF3E00?logo=svelte&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
 </div>
 
 <h4 align="center">🔭 Working On</h4>
