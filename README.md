@@ -33,9 +33,12 @@ Here are some ideas to get you started:
 <br>
 <h4 align="center">📖 Studying</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white"/>
 </div>
 <br>
 <h4 align="center">🎈 Solved AC Profile</h4>
