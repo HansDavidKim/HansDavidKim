@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <h4>
+  <h4 style="text-align: center;">
     Tech Stack
   </h4>
   
