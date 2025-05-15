@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 </div>
 
 <h4 align="center">🔭 Working On</h4>
-<h6 align="center">ML Lab, Sogang University</h6>
+<h5 align="center">ML Lab, Sogang University</h5>
