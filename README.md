@@ -29,7 +29,14 @@ Here are some ideas to get you started:
 </div>
 <br>
 <h4 align="center">🔭 Working On</h4>
-<h5 align="center">ML Lab, Sogang University</h5>
+<h5 align="center">💡 ML Lab, Sogang University</h5>
+<br>
+<h4 align="center">📖 Studying</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
 <br>
 <h4 align="center">🎈 Solved AC Profile</h4>
 <p align="center">
