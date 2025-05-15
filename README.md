@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 
 <h4 align="center">🔭 Working On</h4>
 <h5 align="center">ML Lab, Sogang University</h5>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eodnjs5498)](https://solved.ac/eodnjs5498/) 
