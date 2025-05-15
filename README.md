@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
 </div>
 
 <h4 align="center">🔭 Working On</h4>
