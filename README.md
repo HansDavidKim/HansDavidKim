@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <h4 align="center">🔭 Working On</h4>
 <h5 align="center">ML Lab, Sogang University</h5>
 
+<h4 align="center">🎈 Solved AC Profile</h4>
+
 <p align="center">
     <a href="https://solved.ac/eodnjs5498/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eodnjs5498" alt="Solved.ac Profile Badge"/>
