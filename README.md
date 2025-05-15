@@ -27,12 +27,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-SvelteKit-FF3E00?logo=svelte&logoColor=white">
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
 </div>
-
+<br>
 <h4 align="center">🔭 Working On</h4>
 <h5 align="center">ML Lab, Sogang University</h5>
 
 <h4 align="center">🎈 Solved AC Profile</h4>
-
+<br>
 <p align="center">
     <a href="https://solved.ac/eodnjs5498/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eodnjs5498" alt="Solved.ac Profile Badge"/>
