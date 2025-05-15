@@ -1,4 +1,4 @@
-<h3 align="center">🔥 Tech Hipster Dude</h3>
+<h3 align="center">🔥 Tech Hipster Dude 🔥</h3>
 
 <!--
 **HansDavidKim/HansDavidKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,3 +27,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white">
 </div>
+
+<h4 align="center">🔭 Working On</h4>
+<h6 align="center">ML Lab, Sogang University</h6>
