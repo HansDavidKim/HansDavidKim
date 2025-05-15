@@ -1,4 +1,4 @@
-## 🔥 Tech Hipster Dude
+<h3 align="center">🔥 Tech Hipster Dude</h3>
 
 <!--
 **HansDavidKim/HansDavidKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,7 @@ Here are some ideas to get you started:
   
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white)
+![Peft](https://img.shields.io/badge/-Peft-FF5A5F?logo=fastapi&logoColor=white)
+![Svelte](https://img.shields.io/badge/-SvelteKit-FF3E00?logo=svelte&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+
