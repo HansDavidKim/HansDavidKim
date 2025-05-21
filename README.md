@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4 align="center"> 💻 Tech Stack</h4>
+<h3 align="center"> 💻 Tech Stack</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white">
@@ -31,10 +31,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
 </div>
 <br>
-<h4 align="center">🔭 Working On</h4>
-<h5 align="center">💡 ML Lab, Sogang University</h5>
+<h3 align="center">🔭 Working On</h3>
+<h4 align="center">💡 ML Lab, Sogang University</h4>
 <br>
-<h4 align="center">📖 Studying</h4>
+<h3 align="center">📖 Studying</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br>
 <hr/>
 <br>
-<h4 align="center">🎈 Solved AC Profile 🎈</h4>
+<h3 align="center">🎈 Solved AC Profile 🎈</h3>
 <p align="center">
     <a href="https://solved.ac/eodnjs5498/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eodnjs5498" alt="Solved.ac Profile Badge"/><br>
