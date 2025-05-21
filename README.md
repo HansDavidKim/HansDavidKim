@@ -1,6 +1,5 @@
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:6DFFFD,100:0077FF&height=150&section=header&text=TechHipster%20Bunny🐇&fontSize=90&fontColor=C0F7FF)
-<h3 align="center">🔥 Tech Hipster Dude 🔥</h3>
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:6DFFFD,100:0077FF&height=150&section=header&text=Tech%20Bunny🐰&fontSize=90&fontColor=C0F7FF)
 
 <!--
 **HansDavidKim/HansDavidKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
