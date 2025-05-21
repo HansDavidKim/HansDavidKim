@@ -30,8 +30,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-SvelteKit-FF3E00?logo=svelte&logoColor=white">
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white">
 </div>
+<br>
 <h4 align="center">🔭 Working On</h4>
 <h5 align="center">💡 ML Lab, Sogang University</h5>
+<br>
 <h4 align="center">📖 Studying</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white"/>
@@ -39,9 +41,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white"/>
 </div>
-
+<br>
 <hr/>
-
+<br>
 <h4 align="center">🎈 Solved AC Profile 🎈</h4>
 <p align="center">
     <a href="https://solved.ac/eodnjs5498/">
