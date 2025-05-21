@@ -39,6 +39,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white"/>
 </div>
+---
+<br/>
+
+
 <h4 align="center">🎈 Solved AC Profile 🎈</h4>
 <p align="center">
     <a href="https://solved.ac/eodnjs5498/">
