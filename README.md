@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <h4 align="center">🎈 Solved AC Profile</h4>
 <p align="center">
     <a href="https://solved.ac/eodnjs5498/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eodnjs5498" alt="Solved.ac Profile Badge"/>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eodnjs5498" alt="Solved.ac Profile Badge"/><br>
         <img src="http://mazandi.herokuapp.com/api?handle=eodnjs5498&theme=dark"/>
     </a>
 </p>
