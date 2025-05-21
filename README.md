@@ -1,3 +1,5 @@
+  
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:6DFFFD,100:0077FF&height=150&section=header&text=Tech Hipster%20Bunny🐇&fontSize=90&fontColor=C0F7FF)
 <h3 align="center">🔥 Tech Hipster Dude 🔥</h3>
 
 <!--
