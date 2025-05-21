@@ -1,5 +1,7 @@
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:6DFFFD,100:0077FF&height=150&section=header&text=Tech%20Bunny🐰&fontSize=90&fontColor=C0F7FF)
+<div style="text-align: center;">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:6DFFFD,100:0077FF&height=150&section=header&text=Tech%20Bunny🐰&fontSize=90&fontColor=C0F7FF" alt="Tech Bunny Header" />
+</div>
 
 <!--
 **HansDavidKim/HansDavidKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
