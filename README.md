@@ -52,7 +52,6 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<h3 align="center">📊 GitHub Top Languages 📊</h3>
 <p align="center">
     <a href="https://github.com/HansDavidKim">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HansDavidKim&theme=tokyonight&count_private=true&layout=compact&show_icons=true&hide_border=true&bg_color=00000000" alt="Top Languages"/>
