@@ -53,4 +53,5 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center"> Stats </h3>
+
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=HansDavidKim&theme=tokyonight&count_private=true&layout=compact&show_icons=true&hide_border=true&bg_color=00000000&exclude_repo=example-repo)](https://github.com/HansDavidKim)
