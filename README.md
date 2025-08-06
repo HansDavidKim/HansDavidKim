@@ -51,3 +51,8 @@ Here are some ideas to get you started:
         <img src="http://mazandi.herokuapp.com/api?handle=eodnjs5498&theme=dark"/>
     </a>
 </p>
+
+## Stats
+[![github stats](https://github-readme-stats.vercel.app/api?username=HansDavidKim&theme=tokyonight&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true)](https://github.com/HansDavidKim)
+
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=HansDavidKim&theme=tokyonight&count_private=true&layout=compact&show_icons=true&hide_border=true&bg_color=00000000&exclude_repo=example-repo)](https://github.com/HansDavidKim)
