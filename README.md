@@ -51,13 +51,3 @@ Here are some ideas to get you started:
         <img src="http://mazandi.herokuapp.com/api?handle=eodnjs5498&theme=dark"/>
     </a>
 </p>
-
----
-<h3 align="center">📊 GitHub Stats 📊</h3>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hansdavidkim&show_icons=true&theme=transparent" />
-  </a>
-</p>
-
