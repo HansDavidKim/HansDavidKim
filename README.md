@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <h3 align="center">🔭 Working On</h3>
-<h4 align="center">💡 ML Lab, Sogang University</h4>
+<h4 align="center">💡 ML Lab, Sogang University (Undergraduate Research Assistant)</h4>
 <br>
 <h3 align="center">📖 Studying</h3>
 <div align="center">
