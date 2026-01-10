@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 </div>
 <br>
 <h3 align="center">🔭 Working On</h3>
-<h4 align="center">💡 ML Lab, Sogang University</h4>
-<h4 align="center">(Undergraduate Research Assistant)</h4>
 <h4 align="center">☕ Causality Lab, Seoul National University</h4>
 <h4 align="center">(ExploreCSR : Winter Session Intern)</h4>
 <br>
