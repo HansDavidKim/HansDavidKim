@@ -37,10 +37,9 @@ Here are some ideas to get you started:
 <h4 align="center">☕ Causality GSDS, SNU</h4>
 <h4 align="center">(ExploreCSR : Winter Session Intern)</h4>
 <br>
-<h3 align="center">📖 Studying</h3>
+<h3 align="center">🌱 I’m currently studying ...</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white"/>
+<h3 align="center">Causal Decision-Making, and Causal Discovery with GNN</h3>
 </div>
 <br>
 <hr/>
