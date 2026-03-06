@@ -35,11 +35,10 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">🔭 Working On</h3>
 <h3 align="center">Causality Laboratory, SNU</h3>
-<h4 align="center">(ExploreCSR : Winter Session Intern)</h4>
 <br>
 <h3 align="center">🌱 I’m currently studying ...</h3>
 <div align="center">
-<h3 align="center">Causal Decision-Making, and Causal Discovery with GNN</h3>
+<h3 align="center">Causal Decision-Making, and Causal Discovery</h3>
 </div>
 <br>
 <hr/>
