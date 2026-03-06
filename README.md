@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <h3 align="center">🔭 Working On</h3>
-<h4 align="center">☕ Causality GSDS, SNU</h4>
+<h3 align="center">Causality Laboratory, SNU</h3>
 <h4 align="center">(ExploreCSR : Winter Session Intern)</h4>
 <br>
 <h3 align="center">🌱 I’m currently studying ...</h3>
