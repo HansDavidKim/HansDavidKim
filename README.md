@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 </div>
 <br>
 <h3 align="center">🔭 Working On</h3>
-<h3 align="center">Causality Laboratory, SNU</h3>
+<h3 align="center">Causality Lab, SNU GSDS</h3>
 <br>
-<h3 align="center">🌱 I’m currently studying ...</h3>
+<h3 align="center">🌱 Research Interest ...</h3>
 <div align="center">
-<h3 align="center">Causal Decision-Making, and Causal Discovery</h3>
+<h3 align="center">Causal Decision-Making, Causal Discovery, and Causal World Modelling</h3>
 </div>
 <br>
 <hr/>
