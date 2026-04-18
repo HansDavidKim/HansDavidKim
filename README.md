@@ -43,9 +43,3 @@ Here are some ideas to get you started:
 <br>
 <hr/>
 <br>
-<h3 align="center">🎈 Solved AC Profile 🎈</h3>
-<p align="center">
-    <a href="https://solved.ac/eodnjs5498/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eodnjs5498" alt="Solved.ac Profile Badge"/><br>
-    </a>
-</p>
