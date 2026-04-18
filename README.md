@@ -47,6 +47,5 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://solved.ac/eodnjs5498/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eodnjs5498" alt="Solved.ac Profile Badge"/><br>
-        <img src="http://mazandi.herokuapp.com/api?handle=eodnjs5498&theme=dark"/>
     </a>
 </p>
